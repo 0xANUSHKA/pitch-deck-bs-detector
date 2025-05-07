@@ -1,4 +1,4 @@
-# pitch‑deck‑bullshit‑detector
+# pitch deck bullshit detector
 
 _turn any pitch deck into hard numbers and mild shame._
 
